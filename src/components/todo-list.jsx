@@ -46,7 +46,7 @@ const TodoList = () => {
       <ul style={{ listStyle: "none", paddingLeft: 0 }}>
         {todos.length >= 1 ? (
           todos
-            .sort((a, b) => a.dateCreated - b.dateCreated)
+            .sort((a, b) => b.dateCreated - a.dateCreated)
             .map((todo) => {
               const props = {
                 todo,
