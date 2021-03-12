@@ -1,0 +1,44 @@
+[
+  {
+    "id": "todo-1615508132130",
+    "text": "Clean laundry",
+    "isComplete": false,
+    "dateCreated": 1615508132130
+  },
+  {
+    "id": "todo-1615508132131",
+    "text": "Wash car",
+    "isComplete": false,
+    "dateCreated": 1615508132131
+  },
+  {
+    "id": "todo-1615508132132",
+    "text": "Feed dog",
+    "isComplete": true,
+    "dateCreated": 1615508132132
+  },
+  {
+    "id": "todo-1615508132133",
+    "text": "Buy milk",
+    "isComplete": false,
+    "dateCreated": 1615508132133
+  },
+  {
+    "id": "todo-1615508132134",
+    "text": "Study math",
+    "isComplete": false,
+    "dateCreated": 1615508132134
+  },
+  {
+    "id": "todo-1615508132135",
+    "text": "Go for walk",
+    "isComplete": false,
+    "dateCreated": 1615508132135
+  },
+  {
+    "id": "todo-1615508132136",
+    "text": "Bake cookies",
+    "isComplete": true,
+    "dateCreated": 1615508132136
+  }
+]
